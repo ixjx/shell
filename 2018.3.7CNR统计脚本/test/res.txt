@@ -1,0 +1,139 @@
+startime: 2018-03-05-09:11:43
+192.168.26.1 | DHCP leased | 13810
+192.168.26.2 | DHCP leased | 13813
+192.168.26.3 | DHCP leased | 29859
+192.168.26.4 | DHCP leased | 29864
+192.168.26.5 | DHCP leased | 26744
+192.168.26.6 | DHCP leased | 26744
+192.168.26.7 | DHCP leased |
+192.168.26.8 | DHCP leased |
+192.168.26.11 | DHCP leased | 26934
+192.168.26.12 | DHCP leased | 26938
+192.168.26.13 | DHCP leased | 31886
+192.168.26.14 | DHCP leased | 31886
+192.168.26.15 | DHCP leased | 33350
+192.168.26.16 | DHCP leased | 33352
+192.168.26.17 | DHCP leased | 34730
+192.168.26.18 | DHCP leased | 34732
+192.168.26.19 | DHCP leased | 16428
+192.168.26.20 | DHCP leased | 16430
+192.168.26.21 | DHCP leased | 75431
+192.168.26.22 | DHCP leased | 75436
+192.168.26.23 | DHCP leased | 27165
+192.168.26.24 | DHCP leased | 27170
+192.168.26.25 | DHCP leased | 31809
+192.168.26.26 | DHCP leased | 31813
+192.168.26.27 | DHCP leased | 132
+192.168.26.28 | DHCP leased | 132
+192.168.26.29 | DHCP leased |
+192.168.26.30 | DHCP leased |
+192.168.26.31 | DHCP leased | 52748
+192.168.26.32 | DHCP leased | 52755
+192.168.26.33 | DHCP leased | 23743
+192.168.26.34 | DHCP leased | 23518
+192.168.26.35 | DHCP leased | 84510
+192.168.26.36 | DHCP leased | 84511
+192.168.26.37 | DHCP leased | 77104
+192.168.26.38 | DHCP leased | 77106
+192.168.26.39 | DHCP leased | 0
+192.168.26.40 | DHCP leased | 0
+192.168.26.41 | DHCP leased | 101914
+192.168.26.42 | DHCP leased | 101914
+192.168.26.43 | DHCP leased | 106272
+192.168.26.44 | DHCP leased | 106275
+192.168.26.45 | DHCP leased | 60947
+192.168.26.46 | DHCP leased | 60946
+192.168.26.47 | DHCP leased | 34268
+192.168.26.48 | DHCP leased | 34278
+192.168.26.49 | DHCP leased | 55
+192.168.26.50 | DHCP leased | 63
+----------------------------------------------------------------------------------
+192.168.6.1 | DHCP leased | 9499
+192.168.6.2 | DHCP leased | 9499
+192.168.6.3 | DHCP leased | 20058
+192.168.6.4 | DHCP leased | 20058
+192.168.6.5 | DHCP leased | 17869
+192.168.6.6 | DHCP leased | 17868
+192.168.6.7 | DHCP leased |
+192.168.6.8 | DHCP leased |
+192.168.6.11 | DHCP leased | 17644
+192.168.6.12 | DHCP leased | 17644
+192.168.6.13 | DHCP leased | 21068
+192.168.6.14 | DHCP leased | 21069
+192.168.6.15 | DHCP leased | 21096
+192.168.6.16 | DHCP leased | 21096
+192.168.6.17 | DHCP leased | 23484
+192.168.6.18 | DHCP leased | 23484
+192.168.6.19 | DHCP leased | 10028
+192.168.6.20 | DHCP leased | 10029
+192.168.6.21 | DHCP leased | 54155
+192.168.6.22 | DHCP leased | 54157
+192.168.6.23 | DHCP leased | 17716
+192.168.6.24 | DHCP leased | 17716
+192.168.6.25 | DHCP leased | 21667
+192.168.6.26 | DHCP leased | 21668
+192.168.6.27 | DHCP leased | 95
+192.168.6.28 | DHCP leased | 95
+192.168.6.29 | DHCP leased |
+192.168.6.30 | DHCP leased |
+192.168.6.31 | DHCP leased | 33803
+192.168.6.32 | DHCP leased | 33804
+192.168.6.33 | DHCP leased | 15888
+192.168.6.34 | DHCP leased | 15889
+192.168.6.35 | DHCP leased | 55718
+192.168.6.36 | DHCP leased | 55717
+192.168.6.37 | DHCP leased | 51867
+192.168.6.38 | DHCP leased | 51867
+192.168.6.39 | DHCP leased | 0
+192.168.6.40 | DHCP leased | 0
+192.168.6.41 | DHCP leased | 68268
+192.168.6.42 | DHCP leased | 68269
+192.168.6.43 | DHCP leased | 67989
+192.168.6.44 | DHCP leased | 67991
+192.168.6.45 | DHCP leased | 41020
+192.168.6.46 | DHCP leased | 41020
+192.168.6.47 | DHCP leased | 21503
+192.168.6.48 | DHCP leased | 21503
+192.168.6.49 | DHCP leased | 67
+192.168.6.50 | DHCP leased | 67
+----------------------------------------------------------------------------------
+192.168.26.51 | DHCP leased | 402957
+192.168.26.52 | DHCP leased | 76256
+192.168.26.53 | DHCP leased | 137921
+192.168.26.54 | DHCP leased | 19318
+192.168.26.55 | DHCP leased | 127000
+192.168.26.56 | DHCP leased | 49336
+192.168.26.57 | DHCP leased |
+192.168.26.58 | DHCP leased |
+192.168.26.59 | DHCP leased |
+192.168.26.60 | DHCP leased | 128600
+192.168.26.61 | DHCP leased | 141002
+192.168.26.62 | DHCP leased | 52804
+192.168.26.63 | DHCP leased | 29846
+192.168.26.64 | DHCP leased |
+192.168.26.65 | DHCP leased |
+192.168.26.66 | DHCP leased |
+192.168.26.67 | DHCP leased |
+192.168.26.68 | DHCP leased |
+192.168.26.69 | DHCP leased |
+192.168.26.70 | DHCP leased | 128581
+192.168.26.71 | DHCP leased | 0 0 141103
+192.168.26.72 | DHCP leased | 51212
+192.168.26.73 | DHCP leased | 29850
+192.168.26.74 | DHCP leased |
+192.168.26.75 | DHCP leased |
+192.168.26.76 | DHCP leased |
+192.168.26.77 | DHCP leased | 128266
+192.168.26.78 | DHCP leased | 128277
+192.168.26.79 | DHCP leased | 33131
+192.168.26.80 | DHCP leased | 35079
+192.168.26.91 | DHCP leased | 74
+192.168.26.92 | DHCP leased | 74
+----------------------------------------------------------------------------------
+192.168.6.51 | DHCP leased | 207032
+192.168.6.52 | DHCP leased | 113297
+192.168.6.53 | DHCP leased | 42898
+192.168.6.54 | DHCP leased | 49164
+192.168.6.57 | DHCP leased | 44
+192.168.6.58 | DHCP leased | 44
+donetime: 2018-03-05-09:13:47
