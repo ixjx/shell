@@ -10,7 +10,7 @@ time=`date`
 curl -XDELETE http://127.0.0.1:9200/*-${DATE}
 
 if [ $? -eq 0 ];then
-    echo $time"-->del $DATA log success.." >> /tmp/es-index-clear.log
+    echo $time"-->del $DATE log success.." >> /tmp/es-index-clear.log
 else
-    echo $time"-->del $DATA log fail.." >> /tmp/es-index-clear.log
+    echo $time"-->del $DATE log fail.." >> /tmp/es-index-clear.log
 fi
