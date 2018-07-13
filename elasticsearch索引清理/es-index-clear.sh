@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 #指定日期(7天前)
 DATE=`date -d "1 week ago" +%Y.%m.%d`
